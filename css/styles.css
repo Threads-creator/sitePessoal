@@ -1,0 +1,119 @@
+
+.container {
+    background-color: azure;
+}
+
+
+.conteudo {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.conteudo h3 {
+    font-size: 20pt;
+    padding-left: 20px;
+}
+
+.perfil{
+    background-color: rgb(182, 233, 240);
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.perfil img {
+    border-radius: 50%;
+    
+}
+
+.descricao {
+    border: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.descricao h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 28pt;
+    font-style: italic;
+    text-shadow: 2px solid white;
+    text-decoration-style: dashed;
+}
+.descricao h5 {
+    font-size: 14pt;
+    text-decoration: none;
+
+}
+.descricao p {
+    font-size: 12pt;
+    text-align: justify;
+}
+
+
+
+.box-habilidade {
+    border: 2px black solid;
+    background-color: white;
+    border-radius: 15px;
+    
+}
+
+.box-habilidade img{
+    border-radius: 15%;
+}
+
+.box-habilidade p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+
+.box-habilidade span {
+    display: none;
+}
+
+.projetos {
+    margin-left: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box-projeto {
+    background-color: rgb(199, 241, 247);
+    border-radius: 15px;
+}
+
+.box-projeto img{
+    padding: 0px 5px;
+}
+
+.box-projeto h4 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    text-transform: capitalize;
+    font-style: italic;
+}
+
+.box-projeto span {
+    display: none;
+}
+
+.box-projeto p {
+    font-size: 12pt;
+    text-align: center;
+}
+
+
+footer {
+    background-color: rgb(253, 161, 48);
+    color: white;
+    border-radius: 25px;
+    text-align: center;
+}
+
+
+.icon-contato img {
+    width: 50px;
+}
+
+

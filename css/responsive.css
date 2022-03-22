@@ -1,0 +1,42 @@
+@media screen and (max-width: 900px) {
+    .habilidades {
+        justify-content: flex-start;
+        overflow-x: scroll;
+    }
+
+    .box-projeto {
+        width: 55vw;
+        height: fit-content;
+    }
+
+    .box-projeto img{
+        max-width: 50vw;
+    }
+
+    .descricao {
+        height: fit-content;
+    }
+    
+}
+
+@media screen and (max-width: 600px) {
+    .perfil {
+        display: flex;
+        flex-direction: column;
+        height: fit-content;
+    }
+    
+}
+
+
+@media screen and (max-width: 500px) {
+    footer {
+        margin: 10px 5vw;
+    }
+
+    .box-projeto {
+        width: fit-content;
+        height: fit-content;
+    }
+    
+}
